@@ -1,8 +1,8 @@
-/tmp/toy-project-1-master/src/main/java/com/luv2code/crud/config/MySpringMvcDispatcherServletInitializer.java
-/tmp/toy-project-1-master/src/main/java/com/luv2code/crud/dao/CustomerDAO.java
-/tmp/toy-project-1-master/src/main/java/com/luv2code/crud/service/CustomerService.java
-/tmp/toy-project-1-master/src/main/java/com/luv2code/crud/controller/CustomerRestController.java
-/tmp/toy-project-1-master/src/main/java/com/luv2code/crud/entity/Customer.java
-/tmp/toy-project-1-master/src/main/java/com/luv2code/crud/service/CustomerServiceImpl.java
-/tmp/toy-project-1-master/src/main/java/com/luv2code/crud/config/CRUDAppConfig.java
-/tmp/toy-project-1-master/src/main/java/com/luv2code/crud/dao/CustomerDAOImpl.java
+D:\Proj\DEVuser\src\main\java\gstu\devuser\dao\CustomerDAO.java
+D:\Proj\DEVuser\src\main\java\gstu\devuser\config\CRUDAppConfig.java
+D:\Proj\DEVuser\src\main\java\gstu\devuser\entity\Customer.java
+D:\Proj\DEVuser\src\main\java\gstu\devuser\service\CustomerServiceImpl.java
+D:\Proj\DEVuser\src\main\java\gstu\devuser\dao\CustomerDAOImpl.java
+D:\Proj\DEVuser\src\main\java\gstu\devuser\config\MySpringMvcDispatcherServletInitializer.java
+D:\Proj\DEVuser\src\main\java\gstu\devuser\controller\CustomerRestController.java
+D:\Proj\DEVuser\src\main\java\gstu\devuser\service\CustomerService.java
