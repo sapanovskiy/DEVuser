@@ -9,5 +9,8 @@
         <module name="DEVuser" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DEVuser" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
